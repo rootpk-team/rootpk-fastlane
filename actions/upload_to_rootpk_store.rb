@@ -136,7 +136,7 @@ module Fastlane
 
       def self.example_code
         [
-          'rootpk(
+          'upload_to_rootpk_store(
             platform: "android",
             path: "myapp.apk",
             app_id: "your_app_id",
